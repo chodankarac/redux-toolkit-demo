@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/chodankarac/redux-toolkit-demo#readme",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.7"
+    "@reduxjs/toolkit": "^1.9.7",
+    "redux-logger": "^3.0.6"
   }
 }
